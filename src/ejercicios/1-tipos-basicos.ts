@@ -1,6 +1,4 @@
-/*
-    ===== Código de TypeScript =====
-*/
+/*===== Código de TypeScript =====*/
 
 let nombre: string | number = 'Euge';
 
